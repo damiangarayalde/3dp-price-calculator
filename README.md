@@ -2,6 +2,8 @@
 
 This is a customizable calculator for 3d printing price. 
 
+Take in mind it was originally intended for small businesses but could also be useful for unipersonal endeavours as well. 
+
 It includes costs for:
 - material consumption
 - 3dprinter life expectancy
